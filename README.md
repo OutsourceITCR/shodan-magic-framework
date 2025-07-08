@@ -1,0 +1,1 @@
+# shodan-magic-framework
